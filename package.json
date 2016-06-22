@@ -17,7 +17,7 @@
   "repository": "github:mgcrea/node-xlsx",
   "license": "Apache-2.0",
   "dependencies": {
-    "xlsx": "https://github.com/csotiriou/js-xlsx/"
+    "xlsx": "git+https://git@github.com/csotiriou/js-xlsx.git"
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
